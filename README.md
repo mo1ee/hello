@@ -1,5 +1,6 @@
 # hello
 Created a couple sites
-html was easy before mobile
-Wordpress was a byte heavy mess
-Converted to html & starting Github...
+<br>html was easy before mobile
+<br>Wordpress was a byte heavy mess
+<br>Converted to html
+<br>starting Github...
